@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: hsl(217, 54%, 11%);
+}
+.card{
+    margin-top: 70px;
+    width: 350px;
+    height: 750px;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 15px;
+
+}
+.equil{
+    padding-top: 30px;
+    border-radius: 15px;
+}
+.equil img {
+    border-radius: 15px;
+
+
+}
+.equil img:hover{
+    color: aqua;
+}
+.fp{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 25px;
+}
+.sc{
+    color: rgb(132, 132, 132);
+    text-align: left;
+    margin-left: 25px;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.days{
+    color: aqua;
+
+}
+hr{
+    width: 80%;
+    color: gray;
+}
+.bottom{
+    display: flex;
+    margin: 20px;
+}
+.bottom img{
+    border: 2px solid white;
+    border-radius: 50%;
+}
+
+.bottom p {
+    margin-left: 20px;
+}
+.bottom p span {
+    color: aqua;
+    margin-left: 5px;
+}
+
+    
+.attribution { 
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0px;
+    color: white;
+ }
+.attribution a {
+    
+     font-size: 20px;
+     text-decoration: none;
+     }
+
